@@ -1,1 +1,3 @@
-The repository consists of sample projects that were done in the course for the learning purpose
+📚 Data Structures & Algorithms
+
+A comprehensive collection of Data Structures and Algorithms implemented. This repository focuses on clean code, clear explanations, and efficient solutions.
